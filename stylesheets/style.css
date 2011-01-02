@@ -5,4 +5,5 @@ ol.commentlist p { margin-bottom: 8px; }
 div.entry-content ul li { margin-left: 0px; list-style: disc inside none; }
 p.wp-caption-text { font-style: italic; text-align: center; }
 div.alignright { float: right; margin: 0 0 1em 1.2em; }
+div.wp-caption p { padding-bottom: 12px; }
 div.wp-caption p { margin-bottom: 0px; } 
