@@ -1,0 +1,1 @@
+<?php/*Template Name: Links*/?><?php get_header(); ?><!--links.php -->Links:<ul><?php get_links_list(); ?></ul><!--links.php end--><!--include sidebar--><?php include ('sidebar.php');æ?><!--include footer--><?php get_footer(); ?>

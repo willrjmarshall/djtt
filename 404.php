@@ -1,0 +1,1 @@
+<?php get_header(); ?><!--create your own error 404 page-->	<div>		<h2>Error 404</h2>	</div>		<div>		<p>Oh no! You're looking for something which just isn't here!</p>	</div></div><!-- /closes the #primary --><!--include sidebar--><?php include ('sidebar.php');æ?><!--include footer--><?php get_footer(); ?>
